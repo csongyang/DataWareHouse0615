@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DataWareHouse0615.iml" filepath="$PROJECT_DIR$/DataWareHouse0615.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flume-interceptor/flume-interceptor.iml" filepath="$PROJECT_DIR$/flume-interceptor/flume-interceptor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hive-func/hive-func.iml" filepath="$PROJECT_DIR$/hive-func/hive-func.iml" />
+      <module fileurl="file://$PROJECT_DIR$/log-collector/log-collector.iml" filepath="$PROJECT_DIR$/log-collector/log-collector.iml" />
+    </modules>
+  </component>
+</project>
